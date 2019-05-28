@@ -30,7 +30,7 @@ I added six more coulmns in addition to the existing columns in the table:
  - Final Thoughts
  
  
- ##Python Libraries required for this project
+ ### Python Libraries required for this project
  
  - Pandas
  - Beautiful Soup
