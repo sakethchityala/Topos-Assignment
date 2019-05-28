@@ -12,7 +12,7 @@ I added six more coulmns in addition to the existing columns in the table:
 - *Latitude*
 - *Longitude*
 
-#### I will divide the process into there parts
+### I will divide the process into there parts
 1. Part I
  - Getting the intial Table
  - Web scraping city wikilinks
