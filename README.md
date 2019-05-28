@@ -28,3 +28,14 @@ I added six more coulmns in addition to the existing columns in the table:
 3. Part III
  - Vizualizations
  - Final Thoughts
+ 
+ 
+ ##Python Libraries required for this project
+ 
+ - Pandas
+ - Beautiful Soup
+ - Numpy
+ - Regex
+ - Plotly
+
+I also noticed that my plotly graphs are not shown on github so here's the [link to my notebool]()
