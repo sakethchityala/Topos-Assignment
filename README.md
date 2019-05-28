@@ -14,17 +14,17 @@ I added six more coulmns in addition to the existing columns in the table:
 
 #### I will divide the process into there parts
 1. Part I
- 1. Getting the intial Table
- 2. Web scraping city wikilinks
- 3. Adding states abbreviations
+ - Getting the intial Table
+ - Web scraping city wikilinks
+ - Adding states abbreviations
 
 
 2. Part II
- 1. Web scraping and parsing Demographics
- 2. Adding location data
- 3. Cleaning and altering data
+ - Web scraping and parsing Demographics
+ - Adding location data
+ - Cleaning and altering data
 
 
 3. Part III
- 1. Vizualizations
- 2. Final Thoughts
+ - Vizualizations
+ - Final Thoughts
