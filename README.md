@@ -38,4 +38,4 @@ I added six more coulmns in addition to the existing columns in the table:
  - Regex
  - Plotly
 
-I also noticed that my **Plotly Graphs** are not shown on github so, here's the [link to my Jupyter notebook](https://nbviewer.jupyter.org/github/sakethchityala/Topos-Assignment/blob/master/Topos-Assignment.ipynb) on nbviewer
+I also noticed that my **Plotly Graphs** are not shown on github so, here's the [link to my Jupyter notebook](https://nbviewer.jupyter.org/github/sakethchityala/Topos-Assignment/blob/master/Topos_Assignment.ipynb) on nbviewer
