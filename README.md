@@ -7,8 +7,8 @@ I added six more coulmns in addition to the existing columns in the table:
 
 - *States Abreviation*
 - *City webpage url*
-- *% of White Peaople*
-- *% of Black Peaople*
+- *% of White People*
+- *% of Black People*
 - *Latitude*
 - *Longitude*
 
