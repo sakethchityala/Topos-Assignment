@@ -21,7 +21,7 @@ I added six more coulmns in addition to the existing columns in the table:
 
 2. Part II
  - Web scraping and parsing Demographics
- - Adding location data
+ - Adding location data (Latitude & Longitude)
  - Cleaning and altering data
 
 
