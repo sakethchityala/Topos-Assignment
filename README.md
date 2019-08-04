@@ -5,7 +5,7 @@ This Assigment is my attemt to scrape various kinds of data from wikipedia alone
 
 I added six more coulmns in addition to the existing columns in the table:
 
-- *States Abreviation*
+- *States Abbreviation*
 - *City webpage url*
 - *% of White People*
 - *% of Black People*
